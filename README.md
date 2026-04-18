@@ -2,6 +2,12 @@
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-NaiveBayes-green)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
+## 🎯 Problem Statement
+Analyze product reviews automatically and classify customer sentiment.
+
+## 💼 Industry Application
+Helps e-commerce companies understand customer feedback.
+
 📊 Sentiment Analysis of Product Reviews
 
 A Machine Learning project that analyzes product reviews and classifies them into Positive 😊, Negative 😡, or Neutral 😐 sentiments using the Naive Bayes algorithm.
