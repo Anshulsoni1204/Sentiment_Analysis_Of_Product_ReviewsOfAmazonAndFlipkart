@@ -1,6 +1,5 @@
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.10-pink)
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-NaiveBayes-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 📊 Sentiment Analysis of Product Reviews
