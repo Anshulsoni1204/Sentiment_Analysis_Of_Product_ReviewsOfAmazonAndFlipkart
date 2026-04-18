@@ -2,6 +2,7 @@
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-NaiveBayes-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 📊 Sentiment Analysis of Product Reviews
 
 A Machine Learning project that analyzes product reviews and classifies them into Positive 😊, Negative 😡, or Neutral 😐 sentiments using the Naive Bayes algorithm.
