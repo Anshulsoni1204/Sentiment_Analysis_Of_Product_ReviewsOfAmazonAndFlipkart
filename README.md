@@ -1,1 +1,2 @@
-This project performs sentiment analysis on Amazon and Flipkart product reviews using Machine Learning. The model classifies reviews as Positive, Negative, or Neutral using the Naive Bayes algorithm to enhance decision making 
+A Machine Learning project that analyzes product reviews and classifies them into Positive 😊, Negative 😡, or Neutral 😐 sentiments using the Naive Bayes algorithm.
+This project helps companies automatically understand customer feedback and product satisfaction from large volumes of reviews.
